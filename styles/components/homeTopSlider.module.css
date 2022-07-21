@@ -1,0 +1,10 @@
+.swiper-button-next::after {
+  /* background-image: url(./next.svg); */
+
+  color: red;
+  background: red;
+  width: 15px;
+}
+.home-slider-box .swiper-button-next {
+  display: none;
+}
